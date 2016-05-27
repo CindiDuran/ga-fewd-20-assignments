@@ -3,8 +3,8 @@
   font size: 40px;
   line-height: 1.5;
   margin: 30px;
-  border-bottom: 5px double #222222;
-  border-top: 5px double #222222;
+  border-bottom: 5px double #000;
+  border-top: 5px double #000;
   padding: 50px;
   background: url("http://i.imgur.com/OUEEgWu.jpg?1");
 }
@@ -31,18 +31,15 @@
   h1 {
     font-family: fantasy;
     font-weight: bolder;
-    font-size: 50px;
+    font-size: 60px;
     text-transform: uppercase;
     text-align: center;
     margin-top: 0;
   }
   
-  h2 {
-    font-size: 28px;
-  }
     
   h3 { 
-    font-size: 22px;
+    font-size: 28px;
     font-weight: normal;
     text-transform: uppercase;
     text-align: center;
@@ -56,39 +53,26 @@
   }
   
   p { 
+    font-size: 26px;
     font-family: fantasy;
     margin-top: 0;
     margin-bottom: 27px;
+    line-height: 2.0;
   }
   
-  #para2 {
-    font-family: Helvetica;
-  }
-  
-  ul li p {
-    font-size: 18px;
-  }
   
   hr {
     border: solid;
-    margin 30px 0;
+    margin: 30px 0;
   }
   
   nav {
     text-align: center;
+    color: #222;
+    font-size: 22px;
   }
   
-  small { 
-    color: #05080C;
-  }
   
-  ul {
-    list-style-type: square;
-  }
-  
-  strong { 
-    font-style: italic;
-    }
   
   
   

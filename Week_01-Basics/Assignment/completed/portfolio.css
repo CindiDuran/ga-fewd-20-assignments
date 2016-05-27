@@ -1,0 +1,73 @@
+body {
+	font-family: Helvetica;
+	font-size: 22px;
+	line-height: 1.5;
+    margin:30px;
+    padding: 50px;
+    border-bottom: 5px double #993300;
+    border-top: 5px double #993300;
+    background: url("http://i.imgur.com/OUEEgWu.jpg?1");
+}
+  img [alt] {
+  	float: right;
+  }
+   
+   img {
+     border: 8px double #992200;
+     margin-left: 20px;
+     margin-bottom: 20px;
+     padding: 5px;
+     text-align: center;
+}
+
+   a:link {
+     color: #930;
+     text-decoration: none;
+   }
+
+   a:visited {
+     background color: #06C;
+   }
+
+   a:hover { 
+     text-decoration: underline;
+     font-weight: bold;
+   }
+
+   ul {
+   	 list-style: square;
+   }
+
+   h1 {
+     font-family: Fantasy;
+     text-transform: uppercase;
+     text-align: center;
+     font-weight: bold;
+     text-align: center
+     margin-top: 0;
+     font-size: 60px;
+     }
+
+     h3 {
+     	font-size: 26px;
+     	font-family: Fantasy;
+     	text-transform: uppercase;
+     	letter-spacing: 2px;
+     	margin-top: 40px;
+     }
+
+     h4 {
+     	margin-bottom: 0
+     	 }
+     }
+
+     hr {
+     	border: solid; 
+     	margin: 30px 0;
+     }
+
+     nav { 
+     	text-align: center; 
+     	font-size: 22px;
+     }
+
